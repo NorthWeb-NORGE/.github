@@ -36,5 +36,5 @@ Prosjektene våre spenner over hele den moderne programvareutviklingssyklusen:
 *   **GitHub-organisasjon:** [@NorthWeb-NORGE](https://github.com/NorthWeb-NORGE)
 
 <div align="center">
-  <p><i>Made with ❤️ in Begen<br/>© 2026 NorthWeb Norway</i></p>
+  <p><i>Made with ❤️ in Bergen<br/>© 2026 NorthWeb Norway</i></p>
 </div>
