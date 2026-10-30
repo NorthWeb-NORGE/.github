@@ -5,7 +5,7 @@
 
 [![Nettsted](https://img.shields.io/badge/nettsted-northweb.pitchstep.net-blue?style=flat-square&logo=google-chrome)](https://northweb.pitchstep.net)
 [![Status](https://img.shields.io/badge/status-aktiv-success?style=flat-square)]()
-[![GitHub følgere](https://img.shields.io/github/followers/NorthWeb-NORGE?style=flat-square&logo=github)](https://github.com/North-web-dev)
+[![GitHub følgere](https://img.shields.io/github/followers/NorthWeb-NORGE?style=flat-square&logo=github)](https://github.com/NorthWeb-NORGE)
 
 </div>
 
